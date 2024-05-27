@@ -1,0 +1,3 @@
+D:\cmake\bin\cmake.exe -E rm -f CMakeFiles\GrabCut.dir/objects.a
+F:\MinGw\bin\ar.exe cr CMakeFiles\GrabCut.dir/objects.a @CMakeFiles\GrabCut.dir\objects1.rsp
+F:\MinGw\bin\g++.exe -O3 -DNDEBUG -shared -o ..\bin\release\libGrabCut.dll -Wl,--out-implib,libGrabCut.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\GrabCut.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\GrabCut.dir\linklibs.rsp

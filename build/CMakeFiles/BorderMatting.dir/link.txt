@@ -1,0 +1,3 @@
+D:\cmake\bin\cmake.exe -E rm -f CMakeFiles\BorderMatting.dir/objects.a
+F:\MinGw\bin\ar.exe cr CMakeFiles\BorderMatting.dir/objects.a @CMakeFiles\BorderMatting.dir\objects1.rsp
+F:\MinGw\bin\g++.exe -O3 -DNDEBUG -shared -o ..\bin\release\libBorderMatting.dll -Wl,--out-implib,libBorderMatting.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\BorderMatting.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\BorderMatting.dir\linklibs.rsp

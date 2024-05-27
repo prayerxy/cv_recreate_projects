@@ -1,0 +1,3 @@
+D:\cmake\bin\cmake.exe -E rm -f CMakeFiles\maxflow.dir/objects.a
+F:\MinGw\bin\ar.exe cr CMakeFiles\maxflow.dir/objects.a @CMakeFiles\maxflow.dir\objects1.rsp
+F:\MinGw\bin\g++.exe -O3 -DNDEBUG -shared -o ..\bin\release\libmaxflow.dll -Wl,--out-implib,libmaxflow.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\maxflow.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\maxflow.dir\linklibs.rsp

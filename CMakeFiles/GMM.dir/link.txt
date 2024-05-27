@@ -1,0 +1,3 @@
+D:\cmake\bin\cmake.exe -E rm -f CMakeFiles\GMM.dir/objects.a
+F:\MinGw\bin\ar.exe cr CMakeFiles\GMM.dir/objects.a @CMakeFiles\GMM.dir\objects1.rsp
+F:\MinGw\bin\g++.exe -O3 -DNDEBUG -shared -o bin\release\libGMM.dll -Wl,--out-implib,libGMM.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\GMM.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\GMM.dir\linklibs.rsp
