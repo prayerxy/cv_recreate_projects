@@ -1,0 +1,35 @@
+CMakeFiles/LSD.dir/func/lsd/lsd.cpp.obj: \
+ D:\workin2024\Panoramic_rectangling\func\lsd\lsd.cpp \
+ F:/MinGw/x86_64-w64-mingw32/include/stdio.h \
+ F:/MinGw/x86_64-w64-mingw32/include/crtdefs.h \
+ F:/MinGw/x86_64-w64-mingw32/include/_mingw.h \
+ F:/MinGw/x86_64-w64-mingw32/include/_mingw_mac.h \
+ F:/MinGw/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ F:/MinGw/x86_64-w64-mingw32/include/vadefs.h \
+ F:/MinGw/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ F:/MinGw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ F:/MinGw/x86_64-w64-mingw32/include/_mingw_print_push.h \
+ F:/MinGw/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ F:/MinGw/x86_64-w64-mingw32/include/swprintf.inl \
+ F:/MinGw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ F:/MinGw/x86_64-w64-mingw32/include/_mingw_print_pop.h \
+ F:/MinGw/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/stdlib.h \
+ F:/MinGw/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdlib \
+ F:/MinGw/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+ F:/MinGw/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+ F:/MinGw/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+ F:/MinGw/x86_64-w64-mingw32/include/stdlib.h \
+ F:/MinGw/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/limits.h \
+ F:/MinGw/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/syslimits.h \
+ F:/MinGw/x86_64-w64-mingw32/include/limits.h \
+ F:/MinGw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ F:/MinGw/x86_64-w64-mingw32/include/malloc.h \
+ F:/MinGw/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/std_abs.h \
+ F:/MinGw/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/math.h \
+ F:/MinGw/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cmath \
+ F:/MinGw/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/cpp_type_traits.h \
+ F:/MinGw/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/type_traits.h \
+ F:/MinGw/x86_64-w64-mingw32/include/math.h \
+ F:/MinGw/lib/gcc/x86_64-w64-mingw32/8.1.0/include/float.h \
+ F:/MinGw/x86_64-w64-mingw32/include/float.h \
+ D:\workin2024\Panoramic_rectangling\func\lsd\lsd.h

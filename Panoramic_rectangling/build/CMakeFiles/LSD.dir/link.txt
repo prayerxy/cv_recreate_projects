@@ -1,0 +1,3 @@
+D:\cmake\bin\cmake.exe -E rm -f CMakeFiles\LSD.dir/objects.a
+F:\MinGw\bin\ar.exe cr CMakeFiles\LSD.dir/objects.a @CMakeFiles\LSD.dir\objects1.rsp
+F:\MinGw\bin\g++.exe -O3 -DNDEBUG -shared -o ..\bin\release\libLSD.dll -Wl,--out-implib,libLSD.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\LSD.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\LSD.dir\linklibs.rsp

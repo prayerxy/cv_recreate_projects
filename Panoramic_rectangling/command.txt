@@ -1,0 +1,30 @@
+cmake -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release ..
+mingw32-make
+\main.exe
+
+
+
+Eigen:
+
+Eigen 是一个用于线性代数的 C++ 模板库，主要用于矩阵和向量运算，包含许多高效的线性代数、矩阵分解和数值求解算法。
+用途：广泛应用于计算机图形学、计算机视觉、机器学习、物理模拟等领域。
+
+GLFW:
+
+GLFW（Graphics Library Framework）是一个用于创建窗口、获取输入和处理 OpenGL 上下文的开源库。
+用途：常用于 OpenGL 的开发，尤其是跨平台的图形应用程序和游戏开发中。
+
+KHR:
+
+简介：KHR 可能指的是 Khronos Group 制定的某些标准或扩展，比如 OpenGL ES、Vulkan 等图形和计算标准中的 Khronos 扩展（如 KHR_texture_compression_astc_ldr）。
+用途：用于提供跨平台的图形和计算 API，增强图形和计算应用程序的功能和性能。
+
+glad:
+
+简介：glad 是一个用于管理 OpenGL 函数指针的库，它是一个多语言的 GL/GLES/EGL/GLX/WGL 加载器生成器。
+用途：帮助开发者更方便地使用 OpenGL 函数，而无需手动加载它们。
+
+opencv2:
+
+简介：OpenCV（Open Source Computer Vision Library）是一个开源的计算机视觉和机器学习软件库。opencv2 是其某个版本的文件夹。
+用途：广泛应用于图像处理、计算机视觉、机器学习等领域，提供了数百种函数，用于实现各种图像和视频分析任务。

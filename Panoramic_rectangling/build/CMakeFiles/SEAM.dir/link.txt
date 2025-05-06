@@ -1,0 +1,3 @@
+D:\cmake\bin\cmake.exe -E rm -f CMakeFiles\SEAM.dir/objects.a
+F:\MinGw\bin\ar.exe cr CMakeFiles\SEAM.dir/objects.a @CMakeFiles\SEAM.dir\objects1.rsp
+F:\MinGw\bin\g++.exe -O3 -DNDEBUG -shared -o ..\bin\release\libSEAM.dll -Wl,--out-implib,libSEAM.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\SEAM.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\SEAM.dir\linklibs.rsp
